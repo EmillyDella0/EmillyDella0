@@ -46,6 +46,7 @@ Sou uma desenvolvedora em transição de carreira, focada em aprender novas tecn
 - **LinkedIn:** <a href="https://www.linkedin.com/in/emilly-della-066569384" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
 - **GitHub:** [EmillyDella0](https://github.com/EmillyDella0)
 
 <div>
