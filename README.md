@@ -43,14 +43,12 @@ Sou uma desenvolvedora em transição de carreira, focada em aprender novas tecn
 </p>
 
 ## 📫 Como me encontrar
-- **LinkedIn:** <a href="https://www.linkedin.com/in/emilly-della-066569384" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-- **GitHub:** [EmillyDella0](https://github.com/EmillyDella0)
-
 <div>
   <a href= "https://instagram.com/della_emilly" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:emillydella2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/emilly-della-066569384" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
+- **GitHub:** [EmillyDella0](https://github.com/EmillyDella0)
+
