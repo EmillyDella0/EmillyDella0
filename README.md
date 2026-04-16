@@ -4,7 +4,7 @@ Sou uma desenvolvedora em transição de carreira, focada em aprender novas tecn
 
 ## 🛠️ Competências
 
-<table border="0">
+<table border="0" align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
@@ -43,5 +43,5 @@ Sou uma desenvolvedora em transição de carreira, focada em aprender novas tecn
 </p>
 
 ## 📫 Como me encontrar
-- **LinkedIn:** [Meu Perfil LinkedIn!](https://linkedin.com/in/seu-perfil)
+- **LinkedIn:** [Meu Perfil LinkedIn!](www.linkedin.com/in/emilly-della-066569384)
 - **GitHub:** [EmillyDella0](https://github.com/EmillyDella0)
