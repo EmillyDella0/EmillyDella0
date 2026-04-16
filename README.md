@@ -43,5 +43,5 @@ Sou uma desenvolvedora em transição de carreira, focada em aprender novas tecn
 </p>
 
 ## 📫 Como me encontrar
-- **LinkedIn:** <a href="https://www.linkedin.com/in/emilly-della-066569384" target="_blank" Meu Perfil LinkedIn!>.
+- **LinkedIn:** <a href="https://www.linkedin.com/in/emilly-della-066569384" target="_blank"> Meu Perfil LinkedIn!</a>
 - **GitHub:** [EmillyDella0](https://github.com/EmillyDella0)
