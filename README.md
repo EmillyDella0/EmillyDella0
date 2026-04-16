@@ -38,8 +38,8 @@ Sou uma desenvolvedora em transição de carreira, focada em aprender novas tecn
 ## 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmillyDella0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmillyDella0&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=EmillyDella0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmillyDella0&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ## 📫 Como me encontrar
